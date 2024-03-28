@@ -13,8 +13,8 @@
 
 | Project | Technologies |
 | --------------- | --------------- |
-| [HR Analytics Dashboard](../hr_analytics/) | ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi) |
-|  [Sales Analytics Dashboard](./sales_analytics/) | ![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel) |
-|  [Games Industry Research Project](./game_industry/games_industry_research.ipynb) | ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy) ![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy)|
-|  [Recruitment Agency Data Model](./game_industry/games_industry_research.ipynb) | ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)|
-|  [Deal or No Deal BPMN Game Process Flow](./deal_nodeal/) | ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)|
+| [HR Analytics Dashboard](../../../portfolio/tree/main/hr_analytics) | ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi) |
+|  [Sales Analytics Dashboard](../../../portfolio/tree/main/sales_analytics/) | ![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel) |
+|  [Games Industry Research Project](../../../portfolio/tree/main/game_industry/games_industry_research.ipynb) | ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy) ![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy)|
+|  [Recruitment Agency Data Model](../../../portfolio/tree/main/recruitment_agency) | ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)|
+|  [Deal or No Deal BPMN Game Process Flow](../../../portfolio/tree/main/deal_nodeal/) | ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)|
