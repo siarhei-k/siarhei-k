@@ -1,6 +1,6 @@
 
 # Business Analyst / Data Analyst
-📍 Belarus / Lithuania
+📍 Lithuania (EU) / Belarus
 
 ### Languages and Tools:
 
