@@ -21,36 +21,66 @@
 |  [Recruitment Agency Data Model](../../../portfolio/tree/main/recruitment_agency) | ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)|
 |  [Deal or No Deal BPMN Game Process Flow](../../../portfolio/tree/main/deal_nodeal/) | ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)|
 
-<div align="center"><center>
+
+<div align="center">
   <table>
     <tr>
       <td align="center">
+        <a href="../../../portfolio/tree/main/car_reviews_llm/cars_review_analysis_llm.ipynb">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://github.com/siarhei-k/portfolio/raw/main/car_reviews_llm/cars_review_analysis_llm.png" alt="Cars Review LLM Analysis" width="300">
+            <p><b>Cars Review LLM Analysis POC</b><br>
+            <small>Hugging Face | LLM Analysis</small></p>
+          </div>
+        </a>
+      </td>
+      <td align="center">
         <a href="../../../portfolio/tree/main/hr_analytics">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:270px;text-align:center;">
-            <img src="https://github.com/siarhei-k/portfolio/raw/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="270">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="300">
             <p><b>HR Analytics Dashboard</b><br>
             <small>Power BI | Employee Insights</small></p>
           </div>
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="../../../portfolio/tree/main/sales_analytics/">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:220px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="200" alt="Sales Dashboard">
-            <h4>Sales Analytics Dashboard</h4>
-            <p><small>Excel | Data Reporting</small></p>
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/sales_analytics/sales_analytics_dashboard.png" alt="Sales Analytics Dashboard" width="300">
+            <p><b>Sales Analytics Dashboard</b><br>
+            <small>Excel | Business Insights</small></p>
           </div>
         </a>
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="../../../portfolio/tree/main/game_industry/games_industry_research.ipynb">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:220px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pandas_mark.svg" width="200" alt="Games Research">
-            <h4>Games Industry Research</h4>
-            <p><small>Python | Pandas | Scipy</small></p>
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/game_industry/games_industry.png" alt="Games Industry Research" width="300">
+            <p><b>Games Industry Research Project</b><br>
+            <small>Pandas | Numpy | Scipy</small></p>
+          </div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="../../../portfolio/tree/main/recruitment_agency">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/recruitment_agency/recruitment_agency_model.png" alt="Recruitment Agency Data Model" width="300">
+            <p><b>Recruitment Agency Data Model</b><br>
+            <small>MySQL | ERD</small></p>
+          </div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="../../../portfolio/tree/main/deal_nodeal/">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/deal_nodeal/DealNoDeal.drawio.png" alt="Deal or No Deal BPMN Flow" width="300">
+            <p><b>Deal or No Deal BPMN Game Flow</b><br>
+            <small>BPMN | Process Modeling</small></p>
           </div>
         </a>
       </td>
     </tr>
   </table>
-</center></div>
+</div>
