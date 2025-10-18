@@ -14,10 +14,43 @@
 
 | Project | Technologies |
 | --------------- | --------------- |
-| [Сars Review LLM Analysis POC](../../../portfolio/tree/main/car_reviews_llm) | ![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface) |
+| [Сars Review LLM Analysis POC](../../../portfolio/tree/main/car_reviews_llm/cars_review_analysis_llm.ipynb) | ![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface) |
 | [HR Analytics Dashboard](../../../portfolio/tree/main/hr_analytics) | ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi) |
 |  [Sales Analytics Dashboard](../../../portfolio/tree/main/sales_analytics/) | ![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel) |
 |  [Games Industry Research Project](../../../portfolio/tree/main/game_industry/games_industry_research.ipynb) | ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy) ![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy)|
 |  [Recruitment Agency Data Model](../../../portfolio/tree/main/recruitment_agency) | ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)|
 |  [Deal or No Deal BPMN Game Process Flow](../../../portfolio/tree/main/deal_nodeal/) | ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)|
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="../../../portfolio/tree/main/hr_analytics">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:270px;text-align:center;">
+            <img src="https://github.com/siarhei-k/portfolio/raw/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="270">
+            <p><b>HR Analytics Dashboard</b><br>
+            <small>Power BI | Employee Insights</small></p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="../../../portfolio/tree/main/sales_analytics/">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:220px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="200" alt="Sales Dashboard">
+            <h4>Sales Analytics Dashboard</h4>
+            <p><small>Excel | Data Reporting</small></p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="../../../portfolio/tree/main/game_industry/games_industry_research.ipynb">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:220px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pandas_mark.svg" width="200" alt="Games Research">
+            <h4>Games Industry Research</h4>
+            <p><small>Python | Pandas | Scipy</small></p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
