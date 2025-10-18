@@ -21,10 +21,10 @@
 |  [Recruitment Agency Data Model](../../../portfolio/tree/main/recruitment_agency) | ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)|
 |  [Deal or No Deal BPMN Game Process Flow](../../../portfolio/tree/main/deal_nodeal/) | ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)|
 
-<div align="center">
+<div align="center"><center>
   <table>
     <tr>
-      <td>
+      <td align="center">
         <a href="../../../portfolio/tree/main/hr_analytics">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:270px;text-align:center;">
             <img src="https://github.com/siarhei-k/portfolio/raw/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="270">
@@ -53,4 +53,4 @@
       </td>
     </tr>
   </table>
-</div>
+</center></div>
