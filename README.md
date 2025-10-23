@@ -4,20 +4,14 @@
 
 ### Languages and Tools
 
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/s-karelau/">
-  <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"
-       alt="PowerBI Certified"
-       style="width:120px; float:right; margin-right:10px;">
-</a>
-<div>
-
-
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/Jupyter-green?logo=jupyter) ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy)  ![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy) ![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface) ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi) ![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel) ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql) ![Static Badge](https://img.shields.io/badge/git-black?logo=git) ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l) ![Static Badge](https://img.shields.io/badge/UML-red?logo=uml) ![Static Badge](https://img.shields.io/badge/Jira-blue?logo=jira) ![Static Badge](https://img.shields.io/badge/Confluence-blue?logo=confluence)
 
+<div align="center">
+<img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="PowerBI Certified" style="width:120px; margin-right:10px;">
+</div>
 
 
-<div>
+<div align="right">
     <h3>Reach me on</h3>
   <a target="_blank" href="https://www.linkedin.com/in/s-karelau/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn Badge">
