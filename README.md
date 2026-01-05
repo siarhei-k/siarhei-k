@@ -24,7 +24,7 @@
 
 
 <div align="center">
-    <h3>Projects</h3>
+    <h3>Projects</h4>
 </div>
 
 <div align="center">
@@ -59,6 +59,16 @@
       </td>
     </tr>
     <tr>
+      <!-- SQL Data Mart -->
+      <td align="center">
+        <a target="_blank" href="../../../portfolio/tree/main/data_mart_sql/">
+          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
+            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/data_mart_sql/data_mart_sql.png" alt="Marketplace Users SQL Data Mart" width="300">
+            <p><b>Marketplace Users SQL Data Mart</b><br>
+            <small>SQL | PostgreSQL | Business Insights</small></p>
+          </div>
+        </a>
+      </td>
       <td align="center">
         <a target="_blank" href="../../../portfolio/tree/main/game_industry/games_industry_research.ipynb">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
@@ -77,6 +87,9 @@
           </div>
         </a>
       </td>
+    </tr>
+    <tr>
+      <!-- BPMN -->
       <td align="center">
         <a target="_blank" href="../../../portfolio/tree/main/deal_nodeal/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
