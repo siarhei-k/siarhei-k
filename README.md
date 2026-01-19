@@ -91,7 +91,7 @@
     <tr>
       <!-- API -->
       <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/dapi_design/">
+        <a target="_blank" href="../../../portfolio/tree/main/api_design/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/api_design/api_design.png" alt="API Design" width="300">
             <p><b>API Design</b><br>
