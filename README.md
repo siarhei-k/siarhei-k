@@ -9,8 +9,7 @@
 <div align="center">
 <a target="blank" href="https://learn.microsoft.com/en-us/users/siarheikarelau-6566/credentials/certification/ai-business-professional?tab=credentials-tab">
 <img src="https://learn.microsoft.com/media/learn/certification/badges/ai-business-professional.svg?branch=main" alt="Microsoft Certified: AI Business Professional" style="width:125px; margin-right:7px;">
-</a>
-<img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="PowerBI Certified" style="width:120px; margin-right:10px;">
+</a><img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="PowerBI Certified" style="width:120px; margin-right:10px;">
 <img src="https://app.skillsclub.com/participants/96318/credentials/gasq-399552-72433.png?ngsw-bypass=true&v=1751596385&Expires=1847598593&Signature=YRj67rrgkrT02KGxBqtp8B5Euj~INY1sdUuCX6fjpWgjfo4wMHCfbFeYYSJH8vnCOkdFTDZW3s~jkP4XPWLfVBOusXPGarwJbj7XFp5tae17MBFFnSeK--i9gRgbCi9Py~GLG5p4OzeplPduDfkPJcbS8eDTIE0EfKvZ72yr~SuoazKVhXXfKF9GsTXxbyBYPO59KntA7Mvj8-gOkQegmZLQ-FLchuIwhi~Wv9hmwnSbwI0z2JpMFUWQt28ujfV18lJFVhBcm7~A~SmpG-H8A4BmYk7RcVhP24HK1JvSf2eABQqvVf1E1zZzuJYVj-uGMun4b4AvSJnq9GctpzzPCg__&Key-Pair-Id=APKAJGVOLYFJFHV5FSSQ" alt="A4Q IQBBA Certified Foundation Level Business Analysis" style="width:115px; margin-right:10px;">
 </div>
 
