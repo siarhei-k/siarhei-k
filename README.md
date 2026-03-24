@@ -1,21 +1,53 @@
-
 # Business Analyst / Data Analyst
+
 📍 Lithuania (EU) / Belarus
 
 ### Languages and Tools
 
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/Jupyter-green?logo=jupyter) ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy)  ![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy) ![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface) ![Static Badge](https://img.shields.io/badge/OpenAI-%2310a37f?logo=openai) ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi) ![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel) ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql) ![Static Badge](https://img.shields.io/badge/git-black?logo=git) ![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l) ![Static Badge](https://img.shields.io/badge/UML-red?logo=uml) ![Static Badge](https://img.shields.io/badge/Jira-blue?logo=jira) ![Static Badge](https://img.shields.io/badge/Confluence-blue?logo=confluence)
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/Jupyter-green?logo=jupyter)
+![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas)
+![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy)
+![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy)
+![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface)
+![Static Badge](https://img.shields.io/badge/LangChain-white)
+![Static Badge](https://img.shields.io/badge/Chroma-5f43e9)
+![Static Badge](https://img.shields.io/badge/OpenAI-%2310a37f?logo=openai)
+![Static Badge](https://img.shields.io/badge/LM_Studio-222222)
+![Static Badge](https://img.shields.io/badge/RAG-0a7ea4)
+![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi)
+![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel)
+![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/git-black?logo=git)
+![Static Badge](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)
+![Static Badge](https://img.shields.io/badge/UML-red?logo=uml)
+![Static Badge](https://img.shields.io/badge/Jira-blue?logo=jira)
+![Static Badge](https://img.shields.io/badge/Confluence-blue?logo=confluence)
 
 <div align="center">
-<a href="https://learn.microsoft.com/en-us/users/siarheikarelau-6566/credentials/certification/ai-business-professional?tab=credentials-tab">
-<img src="https://learn.microsoft.com/media/learn/certification/badges/ai-business-professional.svg?branch=main" alt="Microsoft Certified: AI Business Professional" style="width:125px; margin-right:7px;">
-</a><img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="PowerBI Certified" style="width:120px; margin-right:10px;">
-<img src="https://app.skillsclub.com/participants/96318/credentials/gasq-399552-72433.png?ngsw-bypass=true&v=1751596385&Expires=1847598593&Signature=YRj67rrgkrT02KGxBqtp8B5Euj~INY1sdUuCX6fjpWgjfo4wMHCfbFeYYSJH8vnCOkdFTDZW3s~jkP4XPWLfVBOusXPGarwJbj7XFp5tae17MBFFnSeK--i9gRgbCi9Py~GLG5p4OzeplPduDfkPJcbS8eDTIE0EfKvZ72yr~SuoazKVhXXfKF9GsTXxbyBYPO59KntA7Mvj8-gOkQegmZLQ-FLchuIwhi~Wv9hmwnSbwI0z2JpMFUWQt28ujfV18lJFVhBcm7~A~SmpG-H8A4BmYk7RcVhP24HK1JvSf2eABQqvVf1E1zZzuJYVj-uGMun4b4AvSJnq9GctpzzPCg__&Key-Pair-Id=APKAJGVOLYFJFHV5FSSQ" alt="A4Q IQBBA Certified Foundation Level Business Analysis" style="width:115px; margin-right:10px;">
+  <a href="https://learn.microsoft.com/en-us/users/siarheikarelau-6566/credentials/certification/ai-business-professional?tab=credentials-tab">
+    <img
+      src="https://learn.microsoft.com/media/learn/certification/badges/ai-business-professional.svg?branch=main"
+      alt="Microsoft Certified: AI Business Professional"
+      style="width:125px; margin-right:7px;"
+    >
+  </a>
+  <img
+    src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"
+    alt="PowerBI Certified"
+    style="width:120px; margin-right:10px;"
+  >
+  <img
+    src="https://app.skillsclub.com/participants/96318/credentials/gasq-399552-72433.png?ngsw-bypass=true&v=1751596385&Expires=1847598593&Signature=YRj67rrgkrT02KGxBqtp8B5Euj~INY1sdUuCX6fjpWgjfo4wMHCfbFeYYSJH8vnCOkdFTDZW3s~jkP4XPWLfVBOusXPGarwJbj7XFp5tae17MBFFnSeK--i9gRgbCi9Py~GLG5p4OzeplPduDfkPJcbS8eDTIE0EfKvZ72yr~SuoazKVhXXfKF9GsTXxbyBYPO59KntA7Mvj8-gOkQegmZLQ-FLchuIwhi~Wv9hmwnSbwI0z2JpMFUWQt28ujfV18lJFVhBcm7~A~SmpG-H8A4BmYk7RcVhP24HK1JvSf2eABQqvVf1E1zZzuJYVj-uGMun4b4AvSJnq9GctpzzPCg__&Key-Pair-Id=APKAJGVOLYFJFHV5FSSQ"
+    alt="A4Q IQBBA Certified Foundation Level Business Analysis"
+    style="width:115px; margin-right:10px;"
+  >
 </div>
 
-
 <div align="right">
-    <h3>Reach me on</h3>
+  <h3>Reach me on</h3>
   <a target="_blank" href="https://www.linkedin.com/in/s-karelau/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn Badge">
   </a>
@@ -24,9 +56,8 @@
   </a>
 </div>
 
-
 <div align="center">
-    <h3>Projects</h4>
+  <h3>Projects</h3>
 </div>
 
 <div align="center">
@@ -36,8 +67,10 @@
         <a target="_blank" href="../../../portfolio/tree/main/car_reviews_llm/cars_review_analysis_llm.ipynb">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/4de0e98f2ba0b4f09fa97242989ac987037640cc/car_reviews_llm/car_reviews_llm.jpg" alt="Cars Review LLM Analysis" width="300">
-            <p><b>Cars Review LLM Analysis POC</b><br>
-            <small>Hugging Face | LLM Analysis</small></p>
+            <p>
+              <b>Cars Review LLM Analysis POC</b><br>
+              <small>Hugging Face | LLM Analysis</small>
+            </p>
           </div>
         </a>
       </td>
@@ -45,8 +78,10 @@
         <a target="_blank" href="../../../portfolio/tree/main/hr_analytics">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="300">
-            <p><b>HR Analytics Dashboard</b><br>
-            <small>Power BI | Employee Insights</small></p>
+            <p>
+              <b>HR Analytics Dashboard</b><br>
+              <small>Power BI | Employee Insights</small>
+            </p>
           </div>
         </a>
       </td>
@@ -54,20 +89,23 @@
         <a target="_blank" href="../../../portfolio/tree/main/sales_analytics/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/sales_analytics/sales_analytics_dashboard.png" alt="Sales Analytics Dashboard" width="300">
-            <p><b>Sales Analytics Dashboard</b><br>
-            <small>Excel | Business Insights</small></p>
+            <p>
+              <b>Sales Analytics Dashboard</b><br>
+              <small>Excel | Business Insights</small>
+            </p>
           </div>
         </a>
       </td>
     </tr>
     <tr>
-      <!-- SQL Data Mart -->
       <td align="center">
         <a target="_blank" href="../../../portfolio/tree/main/data_mart_sql/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/data_mart_sql/data_mart_sql.png" alt="Marketplace Users SQL Data Mart" width="300">
-            <p><b>Marketplace Users SQL Data Mart</b><br>
-            <small>SQL | PostgreSQL | Business Insights</small></p>
+            <p>
+              <b>Marketplace Users SQL Data Mart</b><br>
+              <small>SQL | PostgreSQL | Business Insights</small>
+            </p>
           </div>
         </a>
       </td>
@@ -75,8 +113,10 @@
         <a target="_blank" href="../../../portfolio/tree/main/game_industry/games_industry_research.ipynb">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/game_industry/games_industry.png" alt="Games Industry Research" width="300">
-            <p><b>Games Industry Research Project</b><br>
-            <small>Pandas | Numpy | Scipy</small></p>
+            <p>
+              <b>Games Industry Research Project</b><br>
+              <small>Pandas | Numpy | Scipy</small>
+            </p>
           </div>
         </a>
       </td>
@@ -84,33 +124,41 @@
         <a target="_blank" href="../../../portfolio/tree/main/recruitment_agency">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/recruitment_agency/recruitment_agency_model.png" alt="Recruitment Agency Data Model" width="300">
-            <p><b>Recruitment Agency Data Model</b><br>
-            <small>MySQL | ERD</small></p>
+            <p>
+              <b>Recruitment Agency Data Model</b><br>
+              <small>MySQL | ERD</small>
+            </p>
           </div>
         </a>
       </td>
     </tr>
     <tr>
-      <!-- API -->
       <td align="center">
         <a target="_blank" href="../../../portfolio/tree/main/api_design/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/api_design/api_design.png" alt="API Design" width="300">
-            <p><b>API Design</b><br>
-            <small>API | System Analysis</small></p>
+            <p>
+              <b>API Design</b><br>
+              <small>API | System Analysis</small>
+            </p>
           </div>
         </a>
       </td>
-      <!-- BPMN -->
       <td align="center">
         <a target="_blank" href="../../../portfolio/tree/main/deal_nodeal/">
           <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
             <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/deal_nodeal/DealNoDeal.drawio.png" alt="Deal or No Deal BPMN Flow" width="300">
-            <p><b>Deal or No Deal BPMN Game Flow</b><br>
-            <small>BPMN | Process Modeling</small></p>
+            <p>
+              <b>Deal or No Deal BPMN Game Flow</b><br>
+              <small>BPMN | Process Modeling</small>
+            </p>
           </div>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+### Other Projects
+
+- [Automotive Warning Assistant with RAG](../../../portfolio/tree/main/rag_for_tech_doc)
