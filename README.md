@@ -58,6 +58,8 @@
 
 ### Projects
 
+- [Yandex Afisha User Loyalty Analysis](../../../portfolio/tree/main/afisha/afisha_v3.ipynb)
+  Python | pandas | Retention Analysis | RU language
 - [Cars Review LLM Analysis POC](../../../portfolio/tree/main/car_reviews_llm)
   Hugging Face | LLM Analysis
 - [Automotive Warning Assistant with RAG](../../../portfolio/tree/main/rag_for_tech_doc)
