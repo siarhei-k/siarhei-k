@@ -4,27 +4,27 @@
 
 ### Languages and Tools
 
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/Jupyter-green?logo=jupyter)
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas)
-![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy)
-![Static Badge](https://img.shields.io/badge/Scipy-black?logo=scipy)
-![Static Badge](https://img.shields.io/badge/Hugging_Face-black?logo=huggingface)
-![Static Badge](https://img.shields.io/badge/LangChain-white)
-![Static Badge](https://img.shields.io/badge/Chroma-5f43e9)
-![Static Badge](https://img.shields.io/badge/OpenAI-%2310a37f?logo=openai)
-![Static Badge](https://img.shields.io/badge/LM_Studio-222222)
-![Static Badge](https://img.shields.io/badge/RAG-0a7ea4)
-![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=powerbi)
-![Static Badge](https://img.shields.io/badge/EXCEL-%23217346?logo=microsoftexcel)
-![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/git-black?logo=git)
-![Static Badge](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/BPMN-blue?logo=l)
-![Static Badge](https://img.shields.io/badge/UML-red?logo=uml)
-![Static Badge](https://img.shields.io/badge/Jira-blue?logo=jira)
-![Static Badge](https://img.shields.io/badge/Confluence-blue?logo=confluence)
+![Static Badge](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jupyter-334155?style=flat-square&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Numpy-334155?style=flat-square&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Scipy-334155?style=flat-square&logo=scipy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hugging_Face-334155?style=flat-square&logo=huggingface&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LangChain-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Chroma-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OpenAI-334155?style=flat-square&logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LM_Studio-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RAG-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Power%20BI-334155?style=flat-square&logo=powerbi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/EXCEL-334155?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-334155?style=flat-square&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BPMN-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/UML-334155?style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jira-334155?style=flat-square&logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Confluence-334155?style=flat-square&logo=confluence&logoColor=white)
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/users/siarheikarelau-6566/credentials/certification/ai-business-professional?tab=credentials-tab">
@@ -49,116 +49,30 @@
 <div align="right">
   <h3>Reach me on</h3>
   <a target="_blank" href="https://www.linkedin.com/in/s-karelau/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:siarhei.karelau@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Gmail-334155?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
 
-<div align="center">
-  <h3>Projects</h3>
-</div>
+### Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/car_reviews_llm/cars_review_analysis_llm.ipynb">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/4de0e98f2ba0b4f09fa97242989ac987037640cc/car_reviews_llm/car_reviews_llm.jpg" alt="Cars Review LLM Analysis" width="300">
-            <p>
-              <b>Cars Review LLM Analysis POC</b><br>
-              <small>Hugging Face | LLM Analysis</small>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/hr_analytics">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/hr_analytics/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="300">
-            <p>
-              <b>HR Analytics Dashboard</b><br>
-              <small>Power BI | Employee Insights</small>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/sales_analytics/">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/sales_analytics/sales_analytics_dashboard.png" alt="Sales Analytics Dashboard" width="300">
-            <p>
-              <b>Sales Analytics Dashboard</b><br>
-              <small>Excel | Business Insights</small>
-            </p>
-          </div>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/data_mart_sql/">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/main/data_mart_sql/data_mart_sql.png" alt="Marketplace Users SQL Data Mart" width="300">
-            <p>
-              <b>Marketplace Users SQL Data Mart</b><br>
-              <small>SQL | PostgreSQL | Business Insights</small>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/game_industry/games_industry_research.ipynb">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/game_industry/games_industry.png" alt="Games Industry Research" width="300">
-            <p>
-              <b>Games Industry Research Project</b><br>
-              <small>Pandas | Numpy | Scipy</small>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/recruitment_agency">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/recruitment_agency/recruitment_agency_model.png" alt="Recruitment Agency Data Model" width="300">
-            <p>
-              <b>Recruitment Agency Data Model</b><br>
-              <small>MySQL | ERD</small>
-            </p>
-          </div>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/api_design/">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/api_design/api_design.png" alt="API Design" width="300">
-            <p>
-              <b>API Design</b><br>
-              <small>API | System Analysis</small>
-            </p>
-          </div>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href="../../../portfolio/tree/main/deal_nodeal/">
-          <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:300px; text-align:center;">
-            <img src="https://raw.githubusercontent.com/siarhei-k/portfolio/refs/heads/main/deal_nodeal/DealNoDeal.drawio.png" alt="Deal or No Deal BPMN Flow" width="300">
-            <p>
-              <b>Deal or No Deal BPMN Game Flow</b><br>
-              <small>BPMN | Process Modeling</small>
-            </p>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Other Projects
-
+- [Cars Review LLM Analysis POC](../../../portfolio/tree/main/car_reviews_llm/cars_review_analysis_llm.ipynb)
+  Hugging Face | LLM Analysis
 - [Automotive Warning Assistant with RAG](../../../portfolio/tree/main/rag_for_tech_doc)
+  LangChain | Chroma | OpenAI-compatible API | LM Studio | RAG
+- [HR Analytics Dashboard](../../../portfolio/tree/main/hr_analytics)
+  Power BI | Employee Insights
+- [Sales Analytics Dashboard](../../../portfolio/tree/main/sales_analytics/)
+  Excel | Business Insights
+- [Marketplace Users SQL Data Mart](../../../portfolio/tree/main/data_mart_sql/)
+  SQL | PostgreSQL | Business Insights
+- [Games Industry Research Project](../../../portfolio/tree/main/game_industry/games_industry_research.ipynb)
+  Pandas | Numpy | Scipy
+- [Recruitment Agency Data Model](../../../portfolio/tree/main/recruitment_agency)
+  MySQL | ERD
+- [API Design](../../../portfolio/tree/main/api_design/)
+  API | System Analysis
+- [Deal or No Deal BPMN Game Flow](../../../portfolio/tree/main/deal_nodeal/)
+  BPMN | Process Modeling
